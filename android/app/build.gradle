@@ -134,8 +134,8 @@ android {
         applicationId "com.callboda"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode 3145730
+        versionName "v0.1-alpha"
     }
     splits {
         abi {
