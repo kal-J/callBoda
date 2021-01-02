@@ -1,0 +1,57 @@
+{
+  "name": "callBoda",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.13.2",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/netinfo": "5.9.6",
+    "@react-native-community/picker": "1.6.6",
+    "@react-navigation/bottom-tabs": "^5.11.2",
+    "@react-navigation/material-top-tabs": "^5.3.10",
+    "@react-navigation/native": "^5.8.10",
+    "expo-font": "~8.3.0",
+    "expo-image-picker": "~9.1.1",
+    "firebase": "7.9.0",
+    "lodash": "^4.17.20",
+    "mem": ">=4.0.0",
+    "native-base": "^2.13.8",
+    "react": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-phone-call": "^1.0.9",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-safe-area-context": "^3.1.4",
+    "react-native-screens": "~2.10.1",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-tab-view": "^2.15.2",
+    "react-native-unimodules": "^0.12.0",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-web": "~0.13.7",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.4.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@bam.tech/react-native-make": "^3.0.0",
+    "@react-native-community/eslint-config": "^1.1.0",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.5.1",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-native-rename": "^2.6.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
