@@ -1,6 +1,6 @@
 # CallBoda
 
-<img src="./frontend/assets/icon.png" align="right"
+<img src="./icon.png" align="right"
      alt="Call Boda logo by Kalujja Eric" width="120" height="auto">
 
 CallBoda is a phone call based ride hailing App that contains Boda-Boda contact details along with the Boda stage each Boda guy operates from.
