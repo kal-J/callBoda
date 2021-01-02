@@ -29,7 +29,6 @@ And not to forget, its a nice way for one to share their Boda guy's number with 
 
     ```sh
     $ git clone https://github.com/kal-J/callBoda.git
-    $ cd frontend
     $ npm install
-    $ expo start
+    $ npx react-native run-android
     ```
