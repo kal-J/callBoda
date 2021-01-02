@@ -6,7 +6,8 @@
 CallBoda is a phone call based ride hailing App that contains Boda-Boda contact details along with the Boda stage each Boda guy operates from.
 With Boda hailing services only present in areas around the capital city (Kampala) of Uganda, the 
 rest of the country is left un-attended to. CallBoda comes in to provide a similar Boda hailing experience to the rest of the country by making sure that no matter where one is, one can have 
-access to Boda-Bodas around them.
+access to Boda-Bodas around them. 
+And not to forget, its a nice way for one to share their Boda guy's number with friends :blush:
 
 
 * **Directly call a Boda** from a selected stage.
