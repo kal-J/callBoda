@@ -9,9 +9,10 @@ rest of the country is left un-attended to. CallBoda comes in to provide a simil
 access to Boda-Bodas around them. 
 And not to forget, its a nice way for one to share their Boda guy's number with friends :blush:
 
+[Get the App on playstore](https://play.google.com/store/apps/details?id=com.callboda)
 
+* **Share your Boda Guy with friends** - (**Add New a Boda** to a selected Boda stage).
 * **Directly call a Boda** from a selected stage.
-* **Add New a Boda** to a selected Boda stage.
 * Search **Boda stages**
 * **Boda** and **Boda Stage** Ratings.
 
